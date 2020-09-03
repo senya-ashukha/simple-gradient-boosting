@@ -1,6 +1,6 @@
 # Simple Boosting
 
-Very simple and short implementation of stochastic gradient boosting in just 19 lines of code!
+Very simple and short implementation of gradient boosting in just 19 lines of code!
 
 <p align="center">
 <img height="640" src="sgb.png"/>
