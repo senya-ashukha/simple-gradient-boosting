@@ -2,6 +2,8 @@
 
 Very simple and short implementation of gradient boosting in just 19 lines of code!
 
+## Gradient Boosting
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/senya-ashukha/simple-boosting/master/the_idea.png" width="90%";/>
 </p>
