@@ -1,6 +1,6 @@
 # Simple Boosting
 
-Very simple and short implementation of gradient boosting in just 19 lines of code!
+Very simple and short implementation of gradient boosting in just 18 lines of code!
 
 ## Gradient Boosting
 
