@@ -5,7 +5,7 @@ Very simple and short implementation of gradient boosting in just 18 lines of co
 ## Gradient Boosting
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senya-ashukha/simple-boosting/master/the_idea.png" width="90%";/>
+  <img src="https://raw.githubusercontent.com/senya-ashukha/simple-boosting/master/the_idea_.png" width="90%";/>
 </p>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/senya-ashukha/simple-boosting/blob/master/simple-boosting.ipynb)
